@@ -1,0 +1,6 @@
+{
+  "textEdit_template": "信号类型：{signal_type}\n信号采样率：{signal_sample_rate}Hz\n采集日期：{signal_date}\n采集时间：{signal_time}\n持续时长：{signal_continue_time}\n总点数：{signal_length}",
+  "file_name_template":  "啊啊啊不不不错错错",
+  "test_file": ""
+}
+
